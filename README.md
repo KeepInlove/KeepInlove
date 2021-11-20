@@ -1,5 +1,4 @@
-- 不知名大学在校生,计算机专业,
-- 学无止境
+- 学无止境,在读
 
 <!---
 KeepInlove/KeepInlove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
